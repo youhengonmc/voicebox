@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "voiceblock:block/voice_block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "voiceblock:block/voice_block" }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+[[mods]]
+modId="voiceblock"
+version="${file.jarVersion}"
+displayName="Voice Block Mod"
+
+
+description='''
+A Text-to-Speech block 
+'''
+
+[[dependencies.helloworldmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.helloworldmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
